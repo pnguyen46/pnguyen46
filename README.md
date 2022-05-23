@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phuc Nguyen
+- 👋 Hi, I’m Tron Nguyen
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me
