@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tron Nguyen
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Web Application
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me
 
