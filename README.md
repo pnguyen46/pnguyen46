@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **pnguye62@Gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bwMTNrxThdrE2Cnpf9Ie3-SDKV3Kjx4a/view](https://drive.google.com/file/d/1bwMTNrxThdrE2Cnpf9Ie3-SDKV3Kjx4a/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
