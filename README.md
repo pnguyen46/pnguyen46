@@ -14,7 +14,7 @@
   <a href="https://angel.co/u/pnguyen46" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://drive.google.com/file/d/1bwMTNrxThdrE2Cnpf9Ie3-SDKV3Kjx4a/view" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
