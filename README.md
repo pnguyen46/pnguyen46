@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tron</h1>
-<h3 align="center">A passionate full-stack developer from Atlanta, GA</h3>
+<h3 align="center">An enthusiastic and driven learner with a degree in Computer Science, seeking a software engineer position where I can utilize my skills in problem-solving, software development, and teamwork.</h3>
 
 <p align="center">
   <a href="https://tron-nguyen.netlify.app" target="_blank">
