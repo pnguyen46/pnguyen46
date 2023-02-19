@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tron-nguyen.netlify.app](https://tron-nguyen.netlify.app)
 
-- 💬 Ask me about **code,basketball,csgo**
+- 💬 Ask me about **code,basketball**
 
 - 📫 How to reach me **pnguye62@Gmail.com**
 
