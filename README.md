@@ -19,7 +19,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **PostgreSQL,PHP,Laravel**
+- 🌱 I’m currently learning **PHP,Laravel**
 
 - 👨‍💻 All of my projects are available at [https://tron-nguyen.netlify.app](https://tron-nguyen.netlify.app)
 
