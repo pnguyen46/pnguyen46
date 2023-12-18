@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tron</h1>
+
 <p align="center">
   <a href="https://tron-nguyen.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -21,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tron-nguyen.netlify.app](https://tron-nguyen.netlify.app)
 
-- 💬 Ask me about **code,basketball**
+<!-- - 💬 Ask me about **code,basketball**-->
 
 - 📫 How to reach me **pnguye62@Gmail.com**
 
