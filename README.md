@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tron</h1>
-<h3 align="center">An enthusiastic and driven learner with a degree in Computer Science, seeking a software engineer position where I can utilize my skills in problem-solving, software development, and teamwork.</h3>
-
 <p align="center">
   <a href="https://tron-nguyen.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
