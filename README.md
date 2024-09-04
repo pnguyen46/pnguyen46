@@ -18,7 +18,7 @@
   </a>
 </p>-->
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://tron-nguyen.netlify.app](https://tron-nguyen.netlify.app)
 
