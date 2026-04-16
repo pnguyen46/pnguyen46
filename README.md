@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pnguyen46&locale=en&mode=daily&theme=solarized-light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=pnguyen46&theme=solarized-light&sideNums=EB5454&currStreakNum=EB5454&currStreakLabel=1B83EBDB&dates=EACB2F" alt="GitHub Streak" />
 </div>
 
 ###
